@@ -416,6 +416,7 @@ h6 {
 .panel__body {
   border-radius: 0.9375rem;
   height: 2.1875rem;
+  background: #252525;
 }
 
 .panel__list {
